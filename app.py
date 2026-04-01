@@ -11,7 +11,7 @@ st.set_page_config(page_title="Hệ thống Trợ lý Luật 2025", layout="cent
 st.title("⚖️ Chatbot tra cứu Luật An ninh mạng")
 st.caption("Sinh viên thực hiện: Phạm Trung Kiên - MSSV: 2251120094")
 
-API_KEY = "AIzaSyD4s-il8Dt2zUZLaoy2nbZJIGtQKvVpnaI"
+API_KEY = "Api cua ban"
 client = genai.Client(api_key=API_KEY)
 
 # --- 1. XỬ LÝ DỮ LIỆU & CHROMA DB ---
